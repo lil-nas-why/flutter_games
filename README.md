@@ -1,5 +1,6 @@
 <p> <img align = "center" alt = "gif" src = "https://github.com/lil-nas-why/flutter_games/blob/main/animation.gif" widht = "600" height = "180"/> </p>
-# ReM
+
+## ReM
 ***
 ## 
 ReM - это 2D платформер с пиксельной графикой, по моитвам мультериала Рик и Морти. Разработан с использованием Flutter Flame. Игра предлагает увлекательный игровой процесс, разнообразные уровни и интересных персонажей.
