@@ -1,5 +1,5 @@
 <p> <img align = "center" alt = "gif" src = "https://github.com/lil-nas-why/flutter_games/blob/main/animation.gif" widht = "1000" height = "180"/> </p>
-<p> <img align = "right" alt = "gif" src = "https://github.com/lil-nas-why/flutter_games/blob/main/mPhoto).gif.gif" widht = "1000" height = "180"/> </p>
+
 
 ## ReM
 ***
@@ -41,5 +41,5 @@ ReM - это 2D платформер с пиксельной графикой, �
 - Шамов Н. В. - Дизайн
 #
 
-
+<p> <img align = "right" alt = "gif" src = "https://github.com/lil-nas-why/flutter_games/blob/main/mPhoto).gif.gif" widht = "1000" height = "180"/> </p>
 ***
