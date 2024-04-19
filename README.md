@@ -1,4 +1,4 @@
-<p> <img align = "center" alt = "gif" src = "" widht = "600" height = "180"/> </p>
+<p> <img align = "center" alt = "gif" src = "https://github.com/lil-nas-why/flutter_games/blob/main/animation.gif" widht = "600" height = "180"/> </p>
 ReM
 ***
 ## 
