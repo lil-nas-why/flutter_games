@@ -28,7 +28,7 @@ ReM - это 2D платформер с пиксельной графикой, �
 - **Совместимость:** iOS и Android
 
 ## Road Map
-<p> <img align = "center" src = "https://github.com/lil-nas-why/flutter_games/blob/main/photo_2024-04-19_23-50-22.jpg" widht = "900" height = "400"/> </p>
+<p> <img align = "center" src = "https://github.com/lil-nas-why/flutter_games/blob/main/photo_2024-04-19_23-50-22.jpg" widht = "1200" height = "400"/> </p>
 
   
 ## Команда разработки
